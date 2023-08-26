@@ -1,0 +1,48 @@
+.logo{
+    height:70px;
+    width: 70px;
+}
+.img{
+    height:100%;
+    width: auto;
+}
+/* .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+  }
+  
+  .col-3 {
+    flex: 1; 
+  }
+  
+  #button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: auto; 
+  } */
+  /* .product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  } */
+
+
+
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+  }
+
+  .height{
+    height: 100px;
+
+  }
+ 
+  
+  
+  
+  
+
